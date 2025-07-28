@@ -16,3 +16,7 @@ The mediabar.ini file defines the following modules to use in your Polybar confi
 - `media-volume-down`: displays a button to lower the player's volume
 - `media-volime-up`: displays a button to raise the players's volume
 
+## Installation
+
+- Clone this git repo with `git clone https://github.com/Ethan-Heimer/Mediabar` into your Polybar config.
+- Include `include-file = /home/crookedshaft/.config/polybar/mediabar.ini` into your Polybar config under the `[global/wm]` header.  
